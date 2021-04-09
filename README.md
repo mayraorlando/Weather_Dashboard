@@ -1,3 +1,5 @@
+![weather](https://user-images.githubusercontent.com/44445250/114117185-1d6ab600-98b4-11eb-80bd-c561d485712b.PNG)
+
 # 06 Server-Side APIs: Weather Dashboard
 
 ## Your Task
